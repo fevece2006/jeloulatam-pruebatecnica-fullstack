@@ -8,7 +8,7 @@
 
 | Campo | Valor |
 | :--- | :--- |
-| **Nombre del Candidato** | Felipe Vega Cepeda |
+| **Nombre del Candidato** | Fernando Velásquez Carranza |
 | **Fecha de Inicio** | 22/11/2024 |
 | **Fecha de Entrega** | 24/11/2024 |
 | **Tiempo Dedicado** | ~28 horas |
