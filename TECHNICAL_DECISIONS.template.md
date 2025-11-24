@@ -307,6 +307,16 @@ Organización por **capas de responsabilidad** (UI separada de Lógica/Estado) y
 
 ---
 
+## 📸 Capturas de Pantalla
+
+| Vista | Imagen |
+| :--- | :--- |
+| **Login** | ![Login](archivos/login.png) |
+| **Dashboard** | ![Dashboard](archivos/dashboard.png) |
+| **Lista de Proyectos** | ![Lista de proyectos](archivos/projects.png) |
+| **Detalle de Tareas** | ![Lista de tareas](archivos/tasks.png) |
+| **Modal de Colaboradores** | ![Colaboradores](archivos/collaborators.png) |
+
 **Fecha de última actualización:** 24/11/2024
 **Autor:** Fernando Velásquez Carranza
 
